@@ -1,0 +1,1 @@
+exports.authService = require("./authService");
